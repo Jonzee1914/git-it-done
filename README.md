@@ -1,1 +1,1 @@
-# gti-it-done
+# git-it-done
